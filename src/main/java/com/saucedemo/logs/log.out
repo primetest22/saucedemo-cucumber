@@ -1,0 +1,116 @@
+2022-05-18 12:05:254 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 23:05:946 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:941 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:111 INFO  LoginPage :34 - Enter username : Satandard_user
+2022-05-19 00:05:278 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (b32fd36822e2fe9e49b51b01b745f82c)] -> id: password]
+2022-05-19 00:05:449 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (b32fd36822e2fe9e49b51b01b745f82c)] -> id: login-button]
+2022-05-19 00:05:942 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:298 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-19 00:05:511 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (b7c350c5e850e011121ec78a3ca15d4d)] -> id: password]
+2022-05-19 00:05:834 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (b7c350c5e850e011121ec78a3ca15d4d)] -> id: login-button]
+2022-05-19 00:05:755 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:991 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-19 00:05:210 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (b640f0cd4d0eadf7151a160284cc78d4)] -> id: password]
+2022-05-19 00:05:503 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (b640f0cd4d0eadf7151a160284cc78d4)] -> id: login-button]
+2022-05-19 00:05:495 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:423 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-19 00:05:523 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (0228d235d361ddc56b0fd0363f97b118)] -> id: password]
+2022-05-19 00:05:693 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (0228d235d361ddc56b0fd0363f97b118)] -> id: login-button]
+2022-05-19 00:05:139 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:323 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-19 00:05:549 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (5795939771b6a4dc7fd7543e2ef79321)] -> id: password]
+2022-05-19 00:05:910 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (5795939771b6a4dc7fd7543e2ef79321)] -> id: login-button]
+2022-05-19 00:05:118 INFO  HomePage :25 - Sort the products with prices high to low : [[ChromeDriver: chrome on WINDOWS (5795939771b6a4dc7fd7543e2ef79321)] -> class: product_sort_container]
+2022-05-19 00:05:168 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:542 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-19 00:05:683 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (a884957cbbafcdda4cf61728beafea38)] -> id: password]
+2022-05-19 00:05:851 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (a884957cbbafcdda4cf61728beafea38)] -> id: login-button]
+2022-05-19 00:05:992 INFO  HomePage :52 - Sort the products with prices high to low : [[ChromeDriver: chrome on WINDOWS (a884957cbbafcdda4cf61728beafea38)] -> class: product_sort_container]
+2022-05-19 00:05:212 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:238 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-19 00:05:456 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (1b4318a74ed459aff8c0789bf2c9d029)] -> id: password]
+2022-05-19 00:05:803 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (1b4318a74ed459aff8c0789bf2c9d029)] -> id: login-button]
+2022-05-19 00:05:987 INFO  HomePage :52 - Sort the products with prices high to low : [[ChromeDriver: chrome on WINDOWS (1b4318a74ed459aff8c0789bf2c9d029)] -> class: product_sort_container]
+2022-05-19 00:05:31 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:958 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-19 00:05:99 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (fb717ea1bdbd3d5c0d9621e80630ba5b)] -> id: password]
+2022-05-19 00:05:438 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (fb717ea1bdbd3d5c0d9621e80630ba5b)] -> id: login-button]
+2022-05-19 00:05:861 INFO  HomePage :52 - Sort the products with prices high to low : [[ChromeDriver: chrome on WINDOWS (fb717ea1bdbd3d5c0d9621e80630ba5b)] -> class: product_sort_container]
+2022-05-19 00:05:04 INFO  HomePage :42 - Add Sauce Labs Onesie to cart : [[ChromeDriver: chrome on WINDOWS (fb717ea1bdbd3d5c0d9621e80630ba5b)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-19 00:05:133 INFO  HomePage :47 - Add Sauce Labs Fleece Jacket : [[ChromeDriver: chrome on WINDOWS (fb717ea1bdbd3d5c0d9621e80630ba5b)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-05-19 00:05:300 INFO  HomePage :37 - Click on cart : [[ChromeDriver: chrome on WINDOWS (fb717ea1bdbd3d5c0d9621e80630ba5b)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-19 01:05:67 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:496 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-19 01:05:695 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> id: password]
+2022-05-19 01:05:841 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> id: login-button]
+2022-05-19 01:05:01 INFO  HomePage :52 - Sort the products with prices high to low : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> class: product_sort_container]
+2022-05-19 01:05:153 INFO  HomePage :42 - Add Sauce Labs Onesie to cart : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-19 01:05:242 INFO  HomePage :47 - Add Sauce Labs Fleece Jacket : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-05-19 01:05:337 INFO  HomePage :37 - Click on cart : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-19 01:05:437 INFO  CartPage :25 - Click on checkout button : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> xpath: //button[@id='checkout']]
+2022-05-19 01:05:671 INFO  CheckoutPage :52 - Enter username : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> xpath: //input[@id='first-name']]
+2022-05-19 01:05:899 INFO  CheckoutPage :47 - Enter lastname : Dhoni
+2022-05-19 01:05:112 INFO  CheckoutPage :42 - Enter zipcode : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> xpath: //input[@id='postal-code']]
+2022-05-19 01:05:338 INFO  CheckoutPage :37 - Click on continue button : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> xpath: //input[@id='continue']]
+2022-05-19 01:05:497 INFO  CheckoutSecondPage :25 - Click on finish button : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> xpath: //button[@id='finish']]
+2022-05-19 01:05:544 INFO  CheckoutCompletePage :24 - Verify text THANK YOU FOR YOUR ORDER : [[ChromeDriver: chrome on WINDOWS (61d82ff4f8eee911f1451e36d5eaff1a)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]
+2022-05-19 01:05:812 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:556 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-19 01:05:739 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> id: password]
+2022-05-19 01:05:106 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> id: login-button]
+2022-05-19 01:05:326 INFO  HomePage :52 - Sort the products with prices high to low : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> class: product_sort_container]
+2022-05-19 01:05:393 INFO  HomePage :42 - Add Sauce Labs Onesie to cart : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-19 01:05:464 INFO  HomePage :47 - Add Sauce Labs Fleece Jacket : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-05-19 01:05:577 INFO  HomePage :37 - Click on cart : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-19 01:05:730 INFO  CartPage :25 - Click on checkout button : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> xpath: //button[@id='checkout']]
+2022-05-19 01:05:952 INFO  CheckoutPage :52 - Enter username : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> xpath: //input[@id='first-name']]
+2022-05-19 01:05:126 INFO  CheckoutPage :47 - Enter lastname : Dhoni
+2022-05-19 01:05:284 INFO  CheckoutPage :42 - Enter zipcode : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> xpath: //input[@id='postal-code']]
+2022-05-19 01:05:449 INFO  CheckoutPage :37 - Click on continue button : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> xpath: //input[@id='continue']]
+2022-05-19 01:05:583 INFO  CheckoutSecondPage :25 - Click on finish button : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> xpath: //button[@id='finish']]
+2022-05-19 01:05:623 INFO  CheckoutCompletePage :24 - Verify text THANK YOU FOR YOUR ORDER : [[ChromeDriver: chrome on WINDOWS (431f78551241b7c02a0aa7448befc508)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]
+2022-05-19 01:05:763 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:867 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-19 01:05:33 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> id: password]
+2022-05-19 01:05:281 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> id: login-button]
+2022-05-19 01:05:432 INFO  HomePage :52 - Sort the products with prices high to low : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> class: product_sort_container]
+2022-05-19 01:05:503 INFO  HomePage :42 - Add Sauce Labs Onesie to cart : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-19 01:05:565 INFO  HomePage :47 - Add Sauce Labs Fleece Jacket : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-05-19 01:05:648 INFO  HomePage :37 - Click on cart : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-19 01:05:749 INFO  CartPage :25 - Click on checkout button : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> xpath: //button[@id='checkout']]
+2022-05-19 01:05:947 INFO  CheckoutPage :52 - Enter username : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> xpath: //input[@id='first-name']]
+2022-05-19 01:05:102 INFO  CheckoutPage :47 - Enter lastname : Dhoni
+2022-05-19 01:05:246 INFO  CheckoutPage :42 - Enter zipcode : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> xpath: //input[@id='postal-code']]
+2022-05-19 01:05:402 INFO  CheckoutPage :37 - Click on continue button : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> xpath: //input[@id='continue']]
+2022-05-19 01:05:513 INFO  CheckoutSecondPage :25 - Click on finish button : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> xpath: //button[@id='finish']]
+2022-05-19 01:05:546 INFO  CheckoutCompletePage :24 - Verify text THANK YOU FOR YOUR ORDER : [[ChromeDriver: chrome on WINDOWS (2a9293a31168082320f557e76383a103)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]
+2022-05-19 01:05:948 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:198 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-19 01:05:358 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> id: password]
+2022-05-19 01:05:652 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> id: login-button]
+2022-05-19 01:05:840 INFO  HomePage :52 - Sort the products with prices high to low : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> class: product_sort_container]
+2022-05-19 01:05:916 INFO  HomePage :42 - Add Sauce Labs Onesie to cart : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-19 01:05:45 INFO  HomePage :47 - Add Sauce Labs Fleece Jacket : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-05-19 01:05:203 INFO  HomePage :37 - Click on cart : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-19 01:05:350 INFO  CartPage :25 - Click on checkout button : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> xpath: //button[@id='checkout']]
+2022-05-19 01:05:565 INFO  CheckoutPage :52 - Enter username : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> xpath: //input[@id='first-name']]
+2022-05-19 01:05:753 INFO  CheckoutPage :47 - Enter lastname : Dhoni
+2022-05-19 01:05:950 INFO  CheckoutPage :42 - Enter zipcode : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> xpath: //input[@id='postal-code']]
+2022-05-19 01:05:195 INFO  CheckoutPage :37 - Click on continue button : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> xpath: //input[@id='continue']]
+2022-05-19 01:05:367 INFO  CheckoutSecondPage :25 - Click on finish button : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> xpath: //button[@id='finish']]
+2022-05-19 01:05:417 INFO  CheckoutCompletePage :24 - Verify text THANK YOU FOR YOUR ORDER : [[ChromeDriver: chrome on WINDOWS (c7a18aa46c4dee984226e2151c59e8a0)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]
+2022-05-20 16:05:62 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 16:05:432 INFO  LoginPage :34 - Enter username : standard_user
+2022-05-20 16:05:526 INFO  LoginPage :39 - Enter password : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> id: password]
+2022-05-20 16:05:677 INFO  LoginPage :44 - Click on login button : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> id: login-button]
+2022-05-20 16:05:892 INFO  HomePage :52 - Sort the products with prices high to low : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> class: product_sort_container]
+2022-05-20 16:05:15 INFO  HomePage :42 - Add Sauce Labs Onesie to cart : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-20 16:05:89 INFO  HomePage :47 - Add Sauce Labs Fleece Jacket : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-05-20 16:05:177 INFO  HomePage :37 - Click on cart : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-20 16:05:305 INFO  CartPage :25 - Click on checkout button : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> xpath: //button[@id='checkout']]
+2022-05-20 16:05:521 INFO  CheckoutPage :52 - Enter username : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> xpath: //input[@id='first-name']]
+2022-05-20 16:05:692 INFO  CheckoutPage :47 - Enter lastname : Dhoni
+2022-05-20 16:05:851 INFO  CheckoutPage :42 - Enter zipcode : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> xpath: //input[@id='postal-code']]
+2022-05-20 16:05:968 INFO  CheckoutPage :37 - Click on continue button : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> xpath: //input[@id='continue']]
+2022-05-20 16:05:77 INFO  CheckoutSecondPage :25 - Click on finish button : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> xpath: //button[@id='finish']]
+2022-05-20 16:05:109 INFO  CheckoutCompletePage :24 - Verify text THANK YOU FOR YOUR ORDER : [[ChromeDriver: chrome on WINDOWS (3d05be995adf16f899966bb9d6057829)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]
